@@ -1,1 +1,1 @@
-#!python address/ronin_lstm_tcn.py test --type lstm --test_list /address/list_test_seen.txt   --data_dir address/seen_subjects_test_set --out_dir /address/output_lstm --model_path /address/checkpoints/ronin_lstm_checkpoint.pt
+#!python address/ronin_lstm_tcn.py test --type lstm --test_list /address/list_test_seen.txt   --data_dir address/data --out_dir /address/output_lstm --model_path /address/checkpoints/ronin_lstm_checkpoint.pt
